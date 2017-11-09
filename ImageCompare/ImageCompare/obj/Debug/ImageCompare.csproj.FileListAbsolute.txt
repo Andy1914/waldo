@@ -1,0 +1,1 @@
+C:\project\ImageCompare\ImageCompare\bin\Debug\ImageCompare.exe.config
